@@ -1,0 +1,11 @@
+{
+  "id": "techpark",
+  "name": "Global Tech Park",
+  "type": "office-complex",
+  "floors": 12,
+  "places": [
+    { "id": "google", "name": "Google Office", "floor": 5, "category": "IT Company", "location": "Tower A - Fifth Floor" },
+    { "id": "cafeteria", "name": "Cafeteria", "floor": 3, "category": "Dining", "location": "Tower B - Third Floor" },
+    { "id": "conference", "name": "Conference Hall", "floor": 1, "category": "Meeting Room", "location": "Tower A - First Floor" }
+  ]
+}

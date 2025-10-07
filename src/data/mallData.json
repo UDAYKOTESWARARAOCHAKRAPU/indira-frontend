@@ -1,0 +1,11 @@
+{
+  "id": "lulu-mall",
+  "name": "Lulu Mall",
+  "type": "mall",
+  "floors": 3,
+  "places": [
+    { "id": "zudio", "name": "Zudio", "floor": 1, "category": "Clothing", "location": "Left Wing - First Floor" },
+    { "id": "pvr", "name": "PVR Cinemas", "floor": 3, "category": "Entertainment", "location": "Right Wing - Third Floor" },
+    { "id": "food-court", "name": "Food Court", "floor": 2, "category": "Dining", "location": "Central Second Floor" }
+  ]
+}

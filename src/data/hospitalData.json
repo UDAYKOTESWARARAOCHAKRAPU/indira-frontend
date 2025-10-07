@@ -1,0 +1,11 @@
+{
+  "id": "city-hospital",
+  "name": "City Super Specialty Hospital",
+  "type": "hospital",
+  "floors": 5,
+  "places": [
+    { "id": "emergency", "name": "Emergency Ward", "floor": 0, "category": "Medical", "location": "Ground Floor - Left Wing" },
+    { "id": "cardiology", "name": "Cardiology Dept", "floor": 2, "category": "Medical", "location": "Second Floor - Block B" },
+    { "id": "pharmacy", "name": "Pharmacy", "floor": 0, "category": "Medical Store", "location": "Ground Floor - Near Reception" }
+  ]
+}

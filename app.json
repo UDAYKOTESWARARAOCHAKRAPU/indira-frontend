@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "indira-frontend",
-    "slug": "indira-frontend",
+    "name": "Indira",
+    "slug": "Indira",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

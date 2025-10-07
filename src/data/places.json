@@ -1,0 +1,78 @@
+{
+  "malls": [
+    {
+      "id": 1,
+      "name": "Phoenix Market City",
+      "location": "Hyderabad, Telangana",
+      "floors": 4,
+      "qrCode": "QR-MALL-101",
+      "shops": [
+        { "id": 101, "name": "Lifestyle", "floor": 1, "category": "Fashion", "qrCode": "QR-SHOP-101" },
+        { "id": 102, "name": "PVR Cinemas", "floor": 3, "category": "Entertainment", "qrCode": "QR-SHOP-102" },
+        { "id": 103, "name": "McDonald's", "floor": 2, "category": "Food Court", "qrCode": "QR-SHOP-103" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Inorbit Mall",
+      "location": "Hitech City, Hyderabad",
+      "floors": 5,
+      "qrCode": "QR-MALL-201",
+      "shops": [
+        { "id": 201, "name": "Zara", "floor": 1, "category": "Fashion", "qrCode": "QR-SHOP-201" },
+        { "id": 202, "name": "Croma", "floor": 2, "category": "Electronics", "qrCode": "QR-SHOP-202" },
+        { "id": 203, "name": "KFC", "floor": 3, "category": "Food Court", "qrCode": "QR-SHOP-203" }
+      ]
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Apollo Hospital",
+      "location": "Jubilee Hills, Hyderabad",
+      "qrCode": "QR-HOSP-301",
+      "departments": [
+        { "id": 301, "name": "Cardiology", "floor": 2, "qrCode": "QR-DEPT-301" },
+        { "id": 302, "name": "Emergency", "floor": 0, "qrCode": "QR-DEPT-302" },
+        { "id": 303, "name": "Pharmacy", "floor": 1, "qrCode": "QR-DEPT-303" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yashoda Hospital",
+      "location": "Secunderabad",
+      "qrCode": "QR-HOSP-401",
+      "departments": [
+        { "id": 401, "name": "Neurology", "floor": 3, "qrCode": "QR-DEPT-401" },
+        { "id": 402, "name": "Orthopedics", "floor": 2, "qrCode": "QR-DEPT-402" },
+        { "id": 403, "name": "Cafeteria", "floor": 1, "qrCode": "QR-DEPT-403" }
+      ]
+    }
+  ],
+  "offices": [
+    {
+      "id": 1,
+      "name": "Microsoft Campus",
+      "location": "Gachibowli, Hyderabad",
+      "floors": 8,
+      "qrCode": "QR-OFFICE-501",
+      "departments": [
+        { "id": 501, "name": "Engineering", "floor": 5, "qrCode": "QR-DEPT-501" },
+        { "id": 502, "name": "HR", "floor": 2, "qrCode": "QR-DEPT-502" },
+        { "id": 503, "name": "Cafeteria", "floor": 1, "qrCode": "QR-DEPT-503" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Google Hyderabad",
+      "location": "Madhapur, Hyderabad",
+      "floors": 7,
+      "qrCode": "QR-OFFICE-601",
+      "departments": [
+        { "id": 601, "name": "Cloud Team", "floor": 4, "qrCode": "QR-DEPT-601" },
+        { "id": 602, "name": "Support", "floor": 2, "qrCode": "QR-DEPT-602" },
+        { "id": 603, "name": "Cafeteria", "floor": 1, "qrCode": "QR-DEPT-603" }
+      ]
+    }
+  ]
+}
